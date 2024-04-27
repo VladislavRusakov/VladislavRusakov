@@ -25,6 +25,6 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavRusakov&layout=compact&exclude_repo=python-base,python-oop)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <h3 align="center">++++++++[>+++++++++<-]>.>++++++++++[>++++++++++>++++++++++>++++++++++>>>++++++++++>++++++++++<<<<<<<-]>+++++.>++++++++++++++.>+.>+++[>++++++++++<-]>++.>+++++++++.>+.</h3>
